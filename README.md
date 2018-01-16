@@ -30,16 +30,16 @@ The Lab will undertake to research the scenerios and use IATI XML to generate sc
 
 Scenario | Destription
 --- | ---
-[One]() | Unidirectional planned disbursement made by one participant to one recipient
-[Two]() | Unidirectional planned disbursement made by one participant to two recipients
-[Three]() | Unidirectional transaction made by one participant to one recipient
-[Four]() | Unidirectional transaction made by one participant to two recipients
-[Five]() | Unidirectional planned activity report made by one participant to one recipient
-[Six]() | Unidirectional planned activity report made by two participants to one recipient
-[Seven]() | Unidirectional activity report made by one participant to one recipient
-[Eight]() | Unidirectional activity report made by two participants to one recipient
-[Nine]() | Unidirectional receipt of donation report made by one participant to one recipient
-[Ten]() | Unidirectional receipt of donation report made by two participants to one recipient
-[Elevin]() | Unidirectional results report made by one participant to one recipient
-[Twelve]() | Unidirectional results report made by two participants to one recipient
+[One]() | Unidirectional **planned disbursement** made by one participant to one recipient
+[Two]() | Unidirectional **planned disbursement** made by one participant to two recipients
+[Three]() | Unidirectional **transaction** made by one participant to one recipient
+[Four]() | Unidirectional **transaction** made by one participant to two recipients
+[Five]() | Unidirectional **planned activity** report made by one participant to one recipient
+[Six]() | Unidirectional **planned activity** report made by two participants to one recipient
+[Seven]() | Unidirectional **activity** report made by one participant to one recipient
+[Eight]() | Unidirectional **activity** report made by two participants to one recipient
+[Nine]() | Unidirectional **receipt of donation** report made by one participant to one recipient
+[Ten]() | Unidirectional **receipt of donation** report made by two participants to one recipient
+[Elevin]() | Unidirectional **results** report made by one participant to one recipient
+[Twelve]() | Unidirectional **results** report made by two participants to one recipient
 
