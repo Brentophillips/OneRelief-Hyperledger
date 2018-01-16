@@ -5,7 +5,26 @@
 ## Bluemix Hyperledger Playground - Required Scripts
 
 ### Model File
-``` code under development ```
+``` /**
+ * My commodity trading network
+ */
+namespace org.acme.mynetwork
+asset Commodity identified by tradingSymbol {
+    o String tradingSymbol
+    o String description
+    o String mainExchange
+    o Double quantity
+    --> Trader owner
+}
+participant Trader identified by tradeId {
+    o String tradeId
+    o String firstName
+    o String lastName
+}
+transaction Trade {
+    --> Commodity commodity
+    --> Trader newOwner
+} ```
 
 ### Script File
 ``` code under development ```
