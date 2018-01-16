@@ -47,7 +47,14 @@ function tradeCommodity(trade) {
 ``` code under development ```
 
 ### Participant One
-``` code under development ```
+```
+{
+  "$class": "org.acme.mynetwork.Trader",
+  "tradeId": "TRADER1",
+  "firstName": "Jenny",
+  "lastName": "Jones"
+} 
+```
 
 ### Commodity Assest One (ID: XYZ)
 ``` code under development ```
