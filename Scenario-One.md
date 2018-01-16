@@ -1,6 +1,6 @@
 # Scenario One
 
-**Unidirectional transaction made by one participant**, simulating OneRelief documenting a disbursemtn made to a humanitarian organization
+**Unidirectional transaction made by one participant**, simulating OneRelief documenting a disbursement made to a humanitarian organization
 
 ## IATI XML code
 
