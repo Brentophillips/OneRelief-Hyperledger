@@ -1,4 +1,4 @@
-# Scenario One
+# Scenario Example
 
 **Example Code** used in this [video]().
 
