@@ -55,12 +55,35 @@ function tradeCommodity(trade) {
   "lastName": "Jones"
 } 
 ```
-
+### Participant Two
+```
+{
+  "$class": "org.acme.mynetwork.Trader",
+  "tradeId": "TRADER2",
+  "firstName": "Amy",
+  "lastName": "Williams"
+}
+```
 ### Commodity Assest One (ID: XYZ)
-``` code under development ```
+```
+{
+  "$class": "org.acme.mynetwork.Commodity",
+  "tradingSymbol": "ABC",
+  "description": "Test commodity",
+  "mainExchange": "Euronext",
+  "quantity": 72.297,
+  "owner": "resource:org.acme.mynetwork.Trader#TRADER1"
+}
+```
 
 ### Transaction
-``` code under development ```
+```
+{
+  "$class": "org.acme.mynetwork.Trade",
+  "commodity": "resource:org.acme.mynetwork.Commodity#ABC",
+  "newOwner": "resource:org.acme.mynetwork.Trader#TRADER2"
+}
+```
 
 ## Blockchain Output
 
