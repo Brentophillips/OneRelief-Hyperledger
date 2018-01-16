@@ -8,7 +8,7 @@ OneRelief's **Innovation Lab** is experimenting with using blockchain technology
 
 A **Hyperledger** is a blockchain style ledger developed by the Linux Foundation's [Hyperledger](https://www.hyperledger.org/) project in partnership with leading tech companies like [IBM](https://www.ibm.com/blockchain/hyperledger.html) and other partners.
 
-Learn more about the Hyperledger Playground and the code that this project will develop ([Video]()).
+Learn more about the Hyperledger Playground and the code that this project will develop ([Video](), [Scenario-Example]()).
 
 ## Research Focus
 
