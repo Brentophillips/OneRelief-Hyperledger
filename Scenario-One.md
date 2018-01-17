@@ -21,6 +21,17 @@
   </transaction>
 ```
 
+* Transaction-type: 3
+* Transaction-date: 2018-01-01
+* Currency: EUR
+* Value-date: 2018-01-01
+* Value: 1000
+* Description: Transaction description text
+* Provider-ref: BB-BBB-123456789
+* Provider: Agency B
+* Receiver-ref: AA-AAA-123456789
+* Receiver: Agency A
+
 ## Bluemix Hyperledger Playground - Required Scripts
 
 ### Model File
