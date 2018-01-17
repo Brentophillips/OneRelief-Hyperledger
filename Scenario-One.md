@@ -20,6 +20,7 @@
    </receiver-org>
   </transaction>
 ```
+### Information
 
 * Transaction-type: 3
 * Transaction-date: 2018-01-01
