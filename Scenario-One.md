@@ -4,7 +4,22 @@
 
 ## IATI XML code
 
-``` code under development ```
+``` 
+  <transaction>
+   <transaction-type code="3" />
+   <transaction-date iso-date="2018-01-01" />
+   <value currency="EUR" value-date="2018-01-01">1000</value>   
+   <description>
+    <narrative>Transaction description text</narrative>
+   </description>
+   <provider-org ref="BB-BBB-123456789">
+    <narrative>Agency B</narrative>
+   </provider-org>
+   <receiver-org ref="AA-AAA-123456789">
+    <narrative>Agency A</narrative>
+   </receiver-org>
+  </transaction>
+```
 
 ## Bluemix Hyperledger Playground - Required Scripts
 
