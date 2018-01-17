@@ -51,7 +51,6 @@
 
 ### Transaction
 ``` code under development ```
-
 ## Blockchain Output
 
 Image file
