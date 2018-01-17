@@ -13,10 +13,10 @@
     <narrative>Transaction description text</narrative>
    </description>
    <provider-org ref="BB-BBB-123456789">
-    <narrative>Agency B</narrative>
+    <narrative>OneRelief</narrative>
    </provider-org>
    <receiver-org ref="AA-AAA-123456789">
-    <narrative>Agency A</narrative>
+    <narrative>Organization A</narrative>
    </receiver-org>
   </transaction>
 ```
@@ -29,9 +29,9 @@
 * Value: 1000
 * Description: Transaction description text
 * Provider-ref: BB-BBB-123456789
-* Provider: Agency B
+* Provider: OneRelief
 * Receiver-ref: AA-AAA-123456789
-* Receiver: Agency A
+* Receiver: Organization A
 
 ## Bluemix Hyperledger Playground - Required Scripts
 
