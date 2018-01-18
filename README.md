@@ -1,4 +1,4 @@
-# Hyperledger - Innovation Lab Project
+# Hyperledger Project
 
 [OneRelief](https://onereliefapp.com) is a nonprofit initiative building an innovative new charitable application collecting micro-donations for humanitarian organizations involved in crisis response.
 
