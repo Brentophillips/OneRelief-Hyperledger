@@ -1,6 +1,6 @@
 # Scenario Example
 
-**Example Code** used in this [video]().
+The below example code is sourced from this Hyperledger Composer tutorial [video](https://www.youtube.com/watch?v=swliX9LFerk&index=4&list=PLPvBhzuLKEjXtCtCbidSmBHSayXdZAvBf).
 
 ## Bluemix Hyperledger Playground - Required Scripts
 
@@ -98,4 +98,4 @@ rule Default {
 
 ## Blockchain Output
 
-Image file
+Under Construction (image of generated block goes here)
