@@ -98,4 +98,6 @@ rule Default {
 
 ## Blockchain Output
 
-Under Construction (image of generated block goes here)
+Output generated from the above code.
+
+![Example Output](https://github.com/Brentophillips/OneRelief-Hyperledger/blob/bp-edit/images/Blockchain_example_record.png)
