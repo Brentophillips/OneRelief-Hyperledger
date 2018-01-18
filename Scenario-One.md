@@ -4,7 +4,34 @@
 
 ## IATI XML code
 
-``` code under development ```
+``` 
+  <transaction>
+   <transaction-type code="3" />
+   <transaction-date iso-date="2018-01-01" />
+   <value currency="EUR" value-date="2018-01-01">1000</value>   
+   <description>
+    <narrative>Transaction description text</narrative>
+   </description>
+   <provider-org ref="BB-BBB-123456789">
+    <narrative>OneRelief</narrative>
+   </provider-org>
+   <receiver-org ref="AA-AAA-123456789">
+    <narrative>Organization A</narrative>
+   </receiver-org>
+  </transaction>
+```
+### Information
+
+* Transaction-type: 3
+* Transaction-date: 2018-01-01
+* Currency: EUR
+* Value-date: 2018-01-01
+* Value: 1000
+* Description: Transaction description text
+* Provider-ref: BB-BBB-123456789
+* Provider: OneRelief
+* Receiver-ref: AA-AAA-123456789
+* Receiver: Organization A
 
 ## Bluemix Hyperledger Playground - Required Scripts
 
@@ -24,7 +51,6 @@
 
 ### Transaction
 ``` code under development ```
-
 ## Blockchain Output
 
 Image file

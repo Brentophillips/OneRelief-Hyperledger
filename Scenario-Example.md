@@ -1,6 +1,6 @@
 # Scenario Example
 
-**Example Code** used in this [video]().
+The below example code is sourced from the following Hyperledger Composer tutorial [video](https://www.youtube.com/watch?v=swliX9LFerk&index=4&list=PLPvBhzuLKEjXtCtCbidSmBHSayXdZAvBf). Deploying the code outputs a simple blockchain transaction record.
 
 ## Bluemix Hyperledger Playground - Required Scripts
 
@@ -98,4 +98,6 @@ rule Default {
 
 ## Blockchain Output
 
-Image file
+Output generated from the above code.
+
+![Example Output](https://github.com/Brentophillips/OneRelief-Hyperledger/blob/bp-edit/images/Blockchain_example_record.png)
