@@ -1,4 +1,4 @@
-# Hyperledger Record
+# Hyperledger Blockchain Records
 
 ### Scenerio Example
 
