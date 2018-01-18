@@ -16,7 +16,7 @@ The innovation lab will undertake to:
 
 * Setup an experimental hyperledger linking OneRelief and humanitarian organizations interested in testing blockchain technology ([Participant List](https://github.com/Brentophillips/OneRelief-Hyperledger/blob/master/Participants.md))
 * Create a rudimentary reporting interface for each participant ([Interface](https://github.com/Brentophillips/OneRelief-Hyperledger/tree/master/Interface))
-* Track micro-disbursements made to the organizations ([Blockchain Record](https://github.com/Brentophillips/OneRelief-Hyperledger/blob/master/Record.md)) funding reported activities.
+* Track micro-disbursements made to participating organizations ([Blockchain Record](https://github.com/Brentophillips/OneRelief-Hyperledger/blob/master/Record.md)) funding reported activities.
 
 Hyperledger research will enable OneRelief to develop a hyperledger to integrate into OneRelief's backend architecture.
 
