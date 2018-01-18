@@ -1,6 +1,6 @@
 # Scenario Example
 
-The below example code is sourced from this Hyperledger Composer tutorial [video](https://www.youtube.com/watch?v=swliX9LFerk&index=4&list=PLPvBhzuLKEjXtCtCbidSmBHSayXdZAvBf).
+The below example code is sourced from the following Hyperledger Composer tutorial [video](https://www.youtube.com/watch?v=swliX9LFerk&index=4&list=PLPvBhzuLKEjXtCtCbidSmBHSayXdZAvBf).
 
 ## Bluemix Hyperledger Playground - Required Scripts
 
