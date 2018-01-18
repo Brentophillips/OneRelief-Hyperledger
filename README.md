@@ -2,7 +2,7 @@
 
 [OneRelief](https://onereliefapp.com) is a nonprofit initiative building an innovative new charitable application collecting micro-donations for humanitarian organizations involved in crisis response.
 
-OneRelief's **Innovation Lab** is experimenting with using blockchain technology to document disbursements made to humanitarian partners using information fields compliant with the **IATI Standard**.
+OneRelief's **Innovation Lab** is experimenting with using blockchain technology to document how donations raised are disbursed to humanitarian organizations. information fields compliant with the **IATI Standard**.
 
 [IATI](http://iatistandard.org) is an open data sharing standard and technical framework that humanitarian organizations and donors use to share detailed information about aid activities, transactions and results and make the information accessible to machine applications.
 
