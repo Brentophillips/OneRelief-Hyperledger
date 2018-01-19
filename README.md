@@ -16,7 +16,7 @@ OneRelief's **Innovation Lab** is studying how blockchain technology developed f
 
 ## Scenarios
 
-OneRelief's Hyperledger project will undertake to generate model, script, access control, participant, commodity and transaction files (see Example scenario) to run to create bloackchain records to study matching IATI XML file starting points (see scenario One):
+OneRelief's Hyperledger project will undertake to generate model, script, access control, participant, commodity and transaction files (see Example Scenario) to run to create bloackchain records to study matching IATI XML file starting points (see Scenario One):
 
 Scenario | Destription
 --- | ---
