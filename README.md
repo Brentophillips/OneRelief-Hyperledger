@@ -4,7 +4,7 @@
 
 OneRelief's **Innovation Lab** is studying how blockchain technology developed by the **Linux Foundation’s** [Hyperledger](https://www.hyperledger.org/) initiative in partnership with leading tech companies like **IBM** can be applied to document transaction and other information, reported in compliance with the **IATI Standard**, shared between humanitarian organizations, donors and next-generation crowdfunding platforms.
 
-[IATI](http://iatistandard.org) is an open data sharing standard and technical framework that humanitarian organizations and donors are coalescing around using, mandated by many government development agencies. IATI was developed by the **International Aid Transparency Initiative** to make detailed information about aid activities, transactions and results more transparent and accessible to machine applications.
+[IATI](http://iatistandard.org) is an open data sharing standard and technical framework created to make detailed information about humanitarian aid activities, transaction and results more transparent and accessible to machine applications. It’s used today by over 600 organizations and being mandated by a growing number of government development agencies.
 
 ## Research Focus
 
