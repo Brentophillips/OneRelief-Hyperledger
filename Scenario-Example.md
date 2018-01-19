@@ -100,4 +100,4 @@ rule Default {
 
 Output generated from the above code.
 
-![Example Output](https://github.com/Brentophillips/OneRelief-Hyperledger/blob/bp-edit/images/Blockchain_example_record.png)
+![Example Output](https://s3.amazonaws.com/auxiliary.pictures/Blockchain_example_record.png)
