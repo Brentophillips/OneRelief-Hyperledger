@@ -1,3 +1,3 @@
-# Hyperledger User Interface
+# User Interface Folder
 
-User interface build files
+For user interface build files
