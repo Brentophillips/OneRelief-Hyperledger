@@ -1,12 +1,10 @@
 # Hyperledger Project
 
-[OneRelief](https://onereliefapp.com) is a nonprofit building an innovative new charitable application collecting micro-donations from the crowd for humanitarian organizations involved in crisis response.
+[OneRelief](https://onereliefapp.com) is a nonprofit building a charitable application collecting micro-donations from the crowd for humanitarian organizations involved in crisis response.
 
-OneRelief's **Innovation Lab** is studying how blockchain technology can be applied in practice to document transaction and other information shared between humanitarian organizations and next-generation humanitarian crowdfunding platforms like OneRelief, reported incompliance with the **IATI Standard**.
+OneRelief's **Innovation Lab** is studying how blockchain technology developed by the Linux Foundation’s [Hyperledger](https://www.hyperledger.org/) initiative in partnership with leading tech companies like IBM can be applied to document transaction and other information, reported in compliance with the IATI Standard, shared between humanitarian organizations, donors and next-generation crowdfunding platforms.
 
 [IATI](http://iatistandard.org) is an open data sharing standard and technical framework that humanitarian organizations and donors are coalescing around using, mandated by many government development agencies. IATI was developed by the **International Aid Transparency Initiative** to make detailed information about aid activities, transactions and results more transparent and accessible to machine applications.
-
-**Hyperledger** is a blockchain style ledger developed by the Linux Foundation's [Hyperledger](https://www.hyperledger.org/) project in partnership with leading tech companies like [IBM](https://www.ibm.com/blockchain/hyperledger.html) and other partners.
 
 ## Research Focus
 
