@@ -1,3 +1,3 @@
-# Network Files
+# Hyperledger Network Folder
 
-This folder will contain Hyperledger network build files.
+For ledger build files
