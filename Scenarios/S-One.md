@@ -1,6 +1,6 @@
 # Scenario One
 
-**Unidirectional transaction made by one participant**, simulating OneRelief documenting a disbursement made to a humanitarian organization
+Basic **Activity** information published by a network participant, shared with all network participants.
 
 ## IATI XML code
 
