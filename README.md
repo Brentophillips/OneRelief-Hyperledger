@@ -1,6 +1,6 @@
 # Humanitarian Blockchain Trial
 
-OneRelief's **Innovation Lab** is building an experimental Hyperledger **blockchain network** and a simplified **user interface** for humanitarian organizations to test, to evaluate how organiztions and donors can carry out IATI compliant information sharing transactions via blockchain.
+OneRelief's **Innovation Lab** is building an experimental Hyperledger **blockchain network** and a simplified **user interface** for humanitarian organizations to test, to evaluate how organizations and donors can carry out IATI compliant information sharing transactions via blockchain.
 
 **IATI** is an open data sharing standard created by the [International Aid Transperancy Initiative](http://iatistandard.org) used today by over 600 humanitarian and development organizations, major donors and government development agencies.
 
